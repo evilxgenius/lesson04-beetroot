@@ -1,0 +1,23 @@
+body {
+    background: gray;
+}
+
+.wrapper {
+    background: white;
+    width: 40%;
+    padding: 5% 10%;
+    margin: 0 auto;
+}
+
+header > a {
+    text-decoration: none;
+    color: black;
+}
+
+#browsers ul {
+    padding: 0;
+}
+
+#browsers li {
+    display: inline;
+}
